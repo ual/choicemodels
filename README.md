@@ -1,4 +1,4 @@
-# ChoiceModels
+# ChoiceModels UAL fork (development is taking place in the main UDST repository now)
 
 This is a package for discrete choice model estimation and simulation, with an emphasis on large choice sets and behavioral refinements to multinomial models. Most of these models are not available in Statsmodels or Scikit-learn. 
 
